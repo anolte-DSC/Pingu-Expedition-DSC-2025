@@ -1,5 +1,6 @@
-date,name,location
-2025-03-26,Herbert,south_antarctica
-2025-03-27,Victoria,south_antarctica
-2025-03-28,Peter,south_antarctica
-2025-03-29,Gilbert,south_antarctica
+Name,Gender,Height,Weight,Image
+Bubba,M,1.75,75,Images/bubba.jpg
+clobbo,M,1.75,75,Images/clobbo.jpg
+hansi,M,1.75,75,Images/hansi.jpg
+knorke,M,1.75,75,Images/knorke.jpg
+ftznfritz,M,1.75,75,Images/ftznfritz.jpg
